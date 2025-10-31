@@ -10,5 +10,5 @@
         android:id="@+id/btnSendNotification"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Отправить уведомление" />
+        android:text="@string/send_notification" />
 </LinearLayout>
