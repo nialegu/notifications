@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="notification_example">Notification example</string>
+    <string name="press_to_open_the_app">Press to open the app</string>
+</resources>
